@@ -1,6 +1,7 @@
 # Project Summary:
 
-This study aims to evaluate the accuracy of a large language model in identifying documentation of ADHD medication side effects in various clinical encounter notes, potentially enhancing quality measurement and patient outcomes. It complements our previous study that focused on clinician adherence to AAP guidelines in recommending non-pharmacological behavioral treatment for young children with ADHD, in which we demonstrated the use of large language models in the evaluation of quality-of-care for children with ADHD [1]. These two studies are the first, to our knowledge, that provide objective support for the successful use of artificial intelligence (AI) to provide a comprehensive evaluation of ADHD management, a prevalent neurobehavioral condition that is predominantly managed in primary care.
+This study aims to evaluate the accuracy of a large language model in identifying documentation of ADHD medication side effects in various clinical encounter notes, potentially enhancing quality measurement and patient outcomes. It complements our previous study [NLP_ADHD_PTBM](https://github.com/ybannett/NLP_ADHD_PTBM)
+ that focused on clinician adherence to AAP guidelines in recommending non-pharmacological behavioral treatment for young children with ADHD, in which we demonstrated the use of large language models in the evaluation of quality-of-care for children with ADHD [1]. These two studies are the first, to our knowledge, that provide objective support for the successful use of artificial intelligence (AI) to provide a comprehensive evaluation of ADHD management, a prevalent neurobehavioral condition that is predominantly managed in primary care.
 
 # Dataset:
 
